@@ -7,17 +7,17 @@ title: Home
 
 <!-- Featured
 ================================================== -->
-<section class="featured-posts">
+<section class="featured-posts2">
     <div class="section-title">
-        <h2><span>Featured</span></h2>
+        <h2><span>ბოლოს ატვირთული</span></h2>
     </div>
-    <div class="row">
+    <div class="row listrecent">
 
     {% for post in site.posts %}
 
         {% if post.featured == true %}
 
-            {% include featuredbox.html %}
+            {% include postbox.html %}
 
         {% endif %}
 
@@ -34,7 +34,7 @@ title: Home
 
     <div class="section-title">
 
-        <h2><span>All Stories</span></h2>
+        <h2><span>სხვა ამბები</span></h2>
 
     </div>
 
