@@ -5,6 +5,8 @@ author: ketevan
 categories: [ რუსეთი, ჩინეთი ]
 tags: [რუსეთი, ჩინეთი, ომი]
 image: assets/images/Russia-China.jpeg
+video: https://www.youtube.com/embed/5i7d0-KGm-E
+spotify: https://open.spotify.com/embed/episode/0GwCCKlKFOBfj476TMU6Ji
 description: 
 featured: true
 hidden: true
@@ -112,12 +114,4 @@ XIX საუკუნეში, ძლიერმა იმპერიულ�
 ## იხილე ვიდეო:
 
 "ცნობისთვის", ქეთევან ჭინჭარაძე საუბრობს რუსეთისა და ჩინეთის ურთიერთობებზე და "ეფ-ეს-ბეს" გაჟონილ ფაილზე, რომელიც ჩინეთს რუსეთის "მტრად" მოიხსენიებს. 
-
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/5i7d0-KGm-E" allowfullscreen></iframe>
-</div>
-
-
-
 

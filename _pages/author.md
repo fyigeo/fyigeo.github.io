@@ -34,5 +34,5 @@ comments: false
 
 <p>
 
-<b>კონტაქტი:</b> ketevan.fyi@gmail.com | <a href="https://www.linkedin.com/in/ketevan-chincharadze/">LinkedIn</a>
+<b>კონტაქტი:</b> <a href="mailto:ketevan.fyi@gmail.com">ketevan.fyi@gmail.com</a> | <a href="https://www.linkedin.com/in/ketevan-chincharadze/">LinkedIn</a>
 

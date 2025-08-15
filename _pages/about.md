@@ -2,7 +2,7 @@
 layout: page
 title: ჩვენს შესახებ
 permalink: /about
-comments: true
+comments: false
 ---
 
 <!-- <a href="">Link here</a> -->
@@ -24,9 +24,8 @@ comments: true
 <br>
 ჩვენ არ ვყვებით ყურმოკრულ ამბებს - ვამბობთ იმას, რაც დადასტურებულია. ყოველი მასალა, სანამ თქვენამდე მოაღწევს, გადის გადამოწმების მრავალჯერად პროცესს. თუ შეცდომა მაინც აღმოაჩინეთ, გთხოვთ გვაცნობოთ, რადგან ინფორმაციის სიზუსტე ჩვენი პრიორიტეტია.</p>
 <p>
-
-3. დამოუკიდებლობა:</p>
-<p>
+<b>3. დამოუკიდებლობა:</b>
+<br>
 ჩვენ არ ვათავსებთ დასპონსორებულ პოლიტიკურ კონტენტს. ეს გვაძლევს თავისუფლებას მოგაწოდოთ დაბალანსებული ანალიზი და ხარისხიანი პროდუქტი, რომელსაც ენდობით.</p>
 <p>
 <b>ჩვენი ძალა ჩვენი ერთგული აუდიტორიაა!</b>
@@ -35,13 +34,6 @@ comments: true
 <p><br>
 დარჩით ჩვენთან ერთად და გაგვიზიარეთ თქვენი აზრები ჩვენს საქმიანობაზე ნებისმიერ პლატფორმაზე.
 </p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-
-
-
-
-
 </div>
 
 <div class="col-md-4">
@@ -53,13 +45,6 @@ comments: true
 <div style="text-align: center;">
 
 <p> ვიზუალურად მოთხრობილი გეოპოლიტიკა </p>
-
-<!-- <p style="text-align: center">
-<a target="_blank" href="https://www.youtube.com/@FYI_Geo" class="btn btn-danger" style="background-color:#EC6165"><i class="fab fa-youtube"></i></a>
-<a target="_blank" href="https://open.spotify.com/show/6FYiRIQhYucotVVtM2qqbR?si=fafb8a2bf3624ffe" class="btn btn-success"><i class="fab fa-spotify"></i></a>
-<a target="_blank" href="" class="btn btn-warning"><i class="fab fa-instagram"></i></a>
-<a target="_blank" href="" class="btn btn-dark"><i class="fab fa-tiktok"></i></a>
-</p> -->
 
 <p style="text-align:center">
   <a href="https://www.youtube.com/@FYI_Geo" target="_blank">
@@ -85,33 +70,3 @@ comments: true
   </a> -->
   <a target="_blank" href="https://www.tiktok.com/@fyi_geo" class="btn btn-dark"><i class="fab fa-tiktok"></i></a>
 
-
-
-
-<!-- 
-
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div> -->
