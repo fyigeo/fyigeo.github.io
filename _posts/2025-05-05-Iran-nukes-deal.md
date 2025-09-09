@@ -5,6 +5,8 @@ author: ketevan
 categories: [ახლო აღმოსავლეთი, აშშ]
 tags: [ირანი, აშშ, ბირთვული იარაღი, ომი]
 image: assets/images/IranNukesDeal.jpeg
+video: https://www.youtube.com/embed/aDFasjiMeEM 
+spotify: https://open.spotify.com/embed/episode/0H6w5ZkjWPUGeIyykZ9p5M  
 ---
 
 ირანის ბირთვული პროგრამა მსოფლიო ყურადღების ცენტრშია, მას შემდეგ, რაც დონალდ [ტრამპმა მკაფიოდ განაცხადა](https://www.youtube.com/watch?v=WTePyg9PsTE&ab_channel=TheIndependent), რომ ირანს არ შეიძლება ჰქონდეს ბირთვული იარაღი. ამჟამად კი, ირანსა და შეერთებულ შტატებს შორს ამ საკითხზე მოლაპარაკებები მიმდინარეობს. 
@@ -103,12 +105,6 @@ image: assets/images/IranNukesDeal.jpeg
 
 გამიზიარეთ თქვენი აზრი - მოიპოვებს ირანი ატომურ იარაღს? 
 
-## იხილე ვიდეო:
-
-"ცნობისთვის", ქეთევან ჭინჭარაძე საუბრობს ირანსა და შეერთებულ შტატებს შორის მიმდინარე მოლაპარაკებებზე ირანის ატომური პროგრამის შემცირებაზე. 
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/aDFasjiMeEM" allowfullscreen></iframe>
-</div>
+## აუდიო ვერსია:
 
 

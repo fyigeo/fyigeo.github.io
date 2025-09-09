@@ -5,8 +5,9 @@ author: ketevan
 categories: [აშშ]
 tags: [აშშ, დასავლეთი, ტრამპი, გრენლანდია, ეკონომიკა]
 image: assets/images/Greenland.jpeg
+video: https://www.youtube.com/embed/a1R0a9l29RU
+spotify: https://open.spotify.com/embed/episode/qcpopZewyvuxCZEBPumhc? 
 ---
-ნაწილი 1: შესავალი 
 
 2024 წლის 22 დეკემბერს, ამერიკის პრეზიდენტმა დონალდ ტრამპმა ამერიკის ელჩი წარადგინდა დანიაში და ამავდროულად განაცხადა, რომ ამერიკა გრენლანდიის შესყიდვითაა დაინტერესებული და თან იმდენად სერიოზულად, რომ მიზნის მისაღწევად სამხედრო ძალის გამოყენებაც არ გამორიცხა. 
 
@@ -193,3 +194,5 @@ image: assets/images/Greenland.jpeg
 
 
 შევხვდებით შემდეგ ვიდეოში. 
+
+## აუდიო ვერსია 

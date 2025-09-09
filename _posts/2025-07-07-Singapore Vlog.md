@@ -5,6 +5,9 @@ author: ketevan
 categories: [ "ცნობის მიღმა" ]
 tags: [სინგაპური, მოგზაურობა]
 image: assets/images/Singapore.jpeg
+video: https://www.youtube.com/embed/MLPyWM79Pwk
+spotify: https://open.spotify.com/embed/episode/ 
+
 ---
 გიზიარებთ ჩემს შთაბეჭდილებებს მსოფლიოს ერთ-ერთ უმდიდრეს ქალაქ-სახელმწიფოში, სინგაპურში, მოგზაურობის შემდეგ.
 
@@ -80,11 +83,6 @@ image: assets/images/Singapore.jpeg
 
 ყველაფერი არის სწრაფი, ორგანიზებული და ტექნოლოგიურად გამართული.
 
+თქვენ იმოგზაურებდით სინგაპურში? 
 
-## იხილე ვიდე:
-
-"ცნობისთვის", ქეთევან ჭინჭარაძის თვალით დანახული სინგაპური, ახალ რუბრიკაში "ცნობის მიღმა":
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/MLPyWM79Pwk" allowfullscreen></iframe>
-</div>
+## აუდიო ვერსია:

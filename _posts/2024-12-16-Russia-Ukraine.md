@@ -5,32 +5,9 @@ author: ketevan
 categories: [რუსეთი]
 tags: [რუსეთი, უკრაინა, ომი, აშშ, ბაიდენი]
 image: assets/images/War-Ukraine.jpeg
+video: https://www.youtube.com/embed/0LEfZDHiVM8
+spotify: https://open.spotify.com/embed/episode/7BEJxGkZ1OBtgnoSZjxNbe? 
 ---
-Pause 
-
-Pause 
-
-Pause
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Begin
-
-
 
 რატომ დაიწყო ომი უკრაინაში? 
 

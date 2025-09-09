@@ -5,6 +5,8 @@ author: ketevan
 categories: [ახლო აღმოსავლეთი, აშშ]
 tags: [ირანი, აშშ, ისრაელი, ბირთვული იარაღი, ომი]
 image: assets/images/IranPower.jpeg
+video: https://www.youtube.com/embed/ThVWEmzsLNo
+spotify: https://open.spotify.com/embed/episode/3zfNEfJXtjBqE5ma7oxcit 
 ---
 
 ეს ქვეყანა ოდესღაც ისრაელის ერთ-ერთი ყველაზე დიდი გულშემატკივარი და შეერთებული შტატების უმნიშვნელოვანესი პარტნიორი იყო შუა აღმოსავლეთში. დღეს კი, ორივეს დაუძინებელი მტერია.
@@ -105,11 +107,5 @@ image: assets/images/IranPower.jpeg
 
 შეძლებს დონალდ ტრამპი ირანის ამჟამინდელ პრეზიდენტ მასუდ ფეზეშქიანთან ბირთვული შეთანხმების მიღწევას? - გამიზიარეთ თქვენი აზრი! 
 
-## იხილე ვიდეო:
-
-"ცნობისთვის", ქეთევან ჭინჭარაძე საუბრობს როგორ გადაიქცა ირანი მონარქიიდან ისლამურ თეოკრატიად, რატომ დაუპირისპირდა ირანი ისრაელსა და აშშ-ს და რამდენად ძლიერია ეს სახელმწიფო გეოპოლიტიკური თვალსაზრისით.
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/ThVWEmzsLNo" allowfullscreen></iframe>
-</div>
+## აუდიო ვერსია:
 

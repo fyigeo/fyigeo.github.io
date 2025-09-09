@@ -36,3 +36,21 @@ comments: false
 
 <b>კონტაქტი:</b> <a href="mailto:ketevan.fyi@gmail.com">ketevan.fyi@gmail.com</a> | <a href="https://www.linkedin.com/in/ketevan-chincharadze/">LinkedIn</a>
 
+
+<div class="row justify-content-between" align="justify">
+<div class="col-md-12">
+<!-- <div class="sticky-top sticky-top-80"> -->
+
+<img src="assets/images/ariadnaprof.png" style="float: left; padding: 20px; width: 400px;"/>
+
+
+<!-- </div> -->
+<!-- </div> -->
+
+
+<!-- <div class="col-md-8 pr-5"> -->
+
+<p><b>არიადნა ზოიძე,</b> <i>მრჩეველი და ვიდეო რედაქტორი</i>
+<p>
+არიადნა ფლობს ბაკალავრის ხარისხს ბიზნეს ადმინისტრირებისა და მარკეტინგის მიმართულებით ბულგარეთის ამერიკული უნივერსიტეტიდან. მას აქვს მრავალწლიანი საერთაშორისო გამოცდილება ამ მიმართულებით. "ცნობისთვის," ის გახლავთ არხის მრჩეველი, როგორც კონტენტის, ასევე გრაფიკული განვითარების მიმართულებით. 
+

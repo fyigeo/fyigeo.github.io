@@ -5,6 +5,8 @@ author: ketevan
 categories: [ ახლო აღმოსავლეთი ]
 tags: [სირია, ისრაელი, თურქეთი, ომი]
 image: assets/images/Syria-Israel-Turkey.jpeg
+video: https://www.youtube.com/embed/GxOhz0SdJc0
+spotify: https://open.spotify.com/embed/episode/74SyuSkzbjU7nm79zH4iMC  
 ---
 
 ასადის რეჟიმის დაცემის შემდეგ, სირია თურქეთსა და ისრაელს შორის გეოპოლიტიკური დაპირისპირების საგნად გადაიქცა. თურქეთი ცდილობს, სირია საკუთარ გავლენის ზონად აქციოს, ისრაელი კი ამ მცდელობას რეგიონის სტაბილურობისთვის საფრთხედ აღიქვამს. სამაგიეროდ, ანკარაში ფიქრობენ, რომ სწორედ ისრაელია ახლო აღმოსავლეთის უსაფრთხოების მთავარი დესტაბილიზატორი.
@@ -114,14 +116,7 @@ image: assets/images/Syria-Israel-Turkey.jpeg
 
 გამიზიარეთ თქვენი აზრი! 
 
-## იხილე ვიდეო:
-
-"ცნობისთვის", ქეთევან ჭინჭარაძე საუბრობს ისრაელისა და თურქეთის ინტერესთა კონფლიქტზე სირიაში.
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/GxOhz0SdJc0" allowfullscreen></iframe>
-</div>
-
+## აუდიო ვერსია:
 
 
 

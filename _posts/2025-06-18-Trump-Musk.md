@@ -5,6 +5,8 @@ author: ketevan
 categories: [ აშშ, დასავლეთი ]
 tags: [ტრამპი, მასკი]
 image: assets/images/Trump-Musk.jpeg
+video: https://www.youtube.com/embed/Ydm1fN7J27k
+spotify: https://open.spotify.com/embed/episode/5OEDxcZdfepCJccSaG7OV6  
 toc: true
 
 ---
@@ -108,11 +110,4 @@ toc: true
 
 ორი ასეთი ამბიციური და გავლენიანი პიროვნების დაპირისპირება სურპრიზზე მეტად მოსალოდნელი იყო. მათ თავის დროზე ერთმანეთთან პარტნიორობა აწყობდათ, ამ ურთიერთობიდან დიდი სარგებელიც მიიღეს, მაგრამ როგორც კი მათი მოლოდინები გაიყო, დაპისპირებაც გაჩნდა.
 
-## იხილე ვიდეო:
-
-"ცნობისთვის", ქეთევან ჭინჭარაძე საუბრობს აშშ-ს პრეზიდენტ დონალდ ტრამპსა და ილონ მასკს შორის საჯარო დაპირისპირების დეტალებზე
-
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Ydm1fN7J27k" allowfullscreen></iframe>
-</div>
+## აუდიო ვერსია:

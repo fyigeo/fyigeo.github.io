@@ -5,9 +5,9 @@ author: ketevan
 categories: [ რუსეთი, ევროპა, აშშ ]
 tags: [დასავლეთი, სანქციები, ეკონომიკა უკრაინა, ომი]
 image: assets/images/Russia-Economic-Crisis.jpeg
+video: https://www.youtube.com/embed/dOBfEmMSh5o 
+spotify: https://open.spotify.com/embed/episode/57KgU4sP3fk96PzWnz2gwp
 description: 
-featured: true
-hidden: true
 ---
 
 რუსეთი, [2024 წლის მონაცემებით](https://forbes.ge/qhvelaze-metad-sanqtsirebuli-qveqhnebi/), მსოფლიოში ყველაზე სანქცირებული ქვეყანაა, რომელსაც დასავლეთმა 20,000-ზე მეტი შეზღუდვა დაუწესა, განსაკუთრებით 2022 წელს უკრაინის წინააღმდეგ დაწყებული ომის შემდეგ.
@@ -110,12 +110,4 @@ hidden: true
 
 ქვეყანას ჯერ კიდევ აქვს რესურსი ბიუჯეტის გასაზრდელად, მათ შორის საშემოსავლო გადასახადების გაზრდის ხარჯზე. თუმცა, ამგვარი მიდგომები უსასრულოდ ვერ გასტანს. რღვევის ნიშნები უკვე ჩანს კიდეც. სწორედ ამიტომ, უკრაინაში მიმდინარე ომის დროულად დასრულება რუსეთის ინტერესებშიცაა.
 
-## იხილე ვიდეო:
-
-"ცნობისთვის", ქეთევან ჭინჭარაძე საუბრობს, თუ როგორ აისახა რუსეთ-უკრაინის ომის ფონზე დასავლეთის მიერ დაწესებული სანქციები რუსეთის ეკონომიკაზე.
-
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/dOBfEmMSh5o" allowfullscreen></iframe>
-</div>
-
+## აუდიო ვერსია:
