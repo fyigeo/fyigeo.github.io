@@ -8,8 +8,8 @@ image: assets/images/Russia-China.jpeg
 video: https://www.youtube.com/embed/5i7d0-KGm-E
 spotify: https://open.spotify.com/embed/episode/0GwCCKlKFOBfj476TMU6Ji
 description: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 2025 წლის ივნისში [ეფ-ეს-ბეს საიდუმლო დაზვერვის რვა გვერდიანმა დოკუმენტმა გაჟონა](https://www.nytimes.com/2025/06/07/world/europe/china-russia-spies-documents-putin-war.html#:~:text=Read), სადაც რუსეთი ჩინეთს “მტრად” მოიხენიებს. ეს დოკუმენტები, კიბერდანაშაულის ჯგუფმა Ares Leaks-მა მოიპოვა და შემდეგ New York Times-ის თაოსნობით, მისი ავთენტურობა [დასავლეთის ექვსმა სადაზვერვო სამსახურმა დაადასტურა](https://www.nytimes.com/2025/06/07/world/europe/russia-intelligence-documents-leak-how.html). 

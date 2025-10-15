@@ -37,6 +37,10 @@ comments: false
 <b>კონტაქტი:</b> <a href="mailto:ketevan.fyi@gmail.com">ketevan.fyi@gmail.com</a> | <a href="https://www.linkedin.com/in/ketevan-chincharadze/">LinkedIn</a>
 
 
+<br>
+<br>
+
+
 <div class="row justify-content-between" align="justify">
 <div class="col-md-12">
 <!-- <div class="sticky-top sticky-top-80"> -->
@@ -49,6 +53,9 @@ comments: false
 
 
 <!-- <div class="col-md-8 pr-5"> -->
+
+<br>
+
 
 <p><b>არიადნა ზოიძე,</b> <i>მრჩეველი და ვიდეო რედაქტორი</i>
 <p>

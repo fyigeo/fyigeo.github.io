@@ -8,8 +8,8 @@ image: assets/images/middlecorridorthumb.jpg
 video: https://www.youtube.com/embed/rufyvv-jx0A
 spotify: https://open.spotify.com/embed/episode/1PSctiXENBKflqASOzGj7g
 description: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 მსოფლიოს სავაჭრო რუკა იცვლება. სანქცირებული რუსეთი, იზოლირებული ირანი, სუეცის არხზე დამოკიდებული ევროპა, სადაც [ჰუსიტების](https://www.fyigeo.com/Houthis/) თავდასხმების გამო გადაზიდვები ფერხდება და ახლად დაზავებული სომხეთი და აზერბიაჯანი. სწორედ ამ პირობებში მკვიდრდება ახალი მარშრუტი — “შუა დერეფანი”, რომელიც ჩინეთს ევროპასთან სამხრეთ კავკასიის გავლით აკავშირებს.

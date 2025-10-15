@@ -8,8 +8,8 @@ image: assets/images/Russia-Azerbaijan.jpeg
 video: https://www.youtube.com/embed/02el3F-AjQw
 spotify: https://open.spotify.com/embed/episode/4XgHKQm17uIi39qzDIrs99
 description: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 

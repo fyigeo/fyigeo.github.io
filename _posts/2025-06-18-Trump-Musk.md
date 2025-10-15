@@ -6,9 +6,7 @@ categories: [ აშშ, დასავლეთი ]
 tags: [ტრამპი, მასკი]
 image: assets/images/Trump-Musk.jpeg
 video: https://www.youtube.com/embed/Ydm1fN7J27k
-spotify: https://open.spotify.com/embed/episode/5OEDxcZdfepCJccSaG7OV6  
-toc: true
-
+spotify: https://open.spotify.com/embed/episode/5OEDxcZdfepCJccSaG7OV6
 ---
 
 ილონ მასკისა და დონალდ ტრამპის სკანდალური დაპირისპირება მსოფლიო ყურადღების ცენტრშია. თუ ცოტა ხნის წინ უთანხმოების მხოლოდ პატარა მინიშნებები იკვეთებოდა, ახლა ილონ მასკი ღიად ითხოვს ტრამპის იმპიჩმენტს და ამბობს, რომ ის ჯეფრი ეფშტეინის ფაილებში გიფურირებს. ტრამპი საპასუხოდ შეშლილს ეძახის და სამთავრობო კონტრაქტების გაუქმებით ემუქრება. 
