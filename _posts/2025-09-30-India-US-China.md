@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "ახალი ბლოკი ამერიკის წინააღმდეგ? ტრამპის გაორმაგებული ტარიფები ინდოეთს და შანხაის სამიტის გზავნილები"
+title:  "რუსეთის პროვოკაცია პოლონეთში? ნატოს პასუხი დრონების შეჭრაზე და ჩინეთის ეკონომიკური ინტერესები"
 author: ketevan
 categories: [ რუსეთი, ჩინეთი, ევროპა ]
 tags: [რუსეთი, ომი, ბელარუსი, ნატო, ევროკავშირი]
 image: assets/images/IndiaUSA.jpg
 video: https://www.youtube.com/embed/XsMbB6uAc-M&t=2s
-spotify: https://open.spotify.com/embed/episode/I0c3rugfFigj4gBhzsTvYU5
+spotify: https://open.spotify.com/embed/episode/0c3rugfFigj4gBhzsTvYU5
 description: 
 featured: true
 hidden: true

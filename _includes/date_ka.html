@@ -1,0 +1,7 @@
+{% comment %}Usage: {% include date_ka.html date=page.date %}{% endcomment %}
+{% if include.date %}
+  {% assign d = include.date | date: "%-d" %}
+  {% assign m_index = include.date | date: "%-m" | minus: 1 %}
+  {% assign y = include.date | date: "%Y" %}
+  {{ d }} {{ site.data.date_ka.months_long[m_index] }} {{ y }}
+{% endif %}

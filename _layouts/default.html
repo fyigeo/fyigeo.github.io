@@ -84,22 +84,6 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/contact">კონტაქტი</a>
                 </li>
 
-                <!-- <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
-                </li> -->
-
                 {% include search-lunr.html %}
 
             </ul>
@@ -110,6 +94,34 @@ ga('send', 'pageview');
 
     </div>
 </nav>
+
+<!-- Results portal rendered OUTSIDE the navbar -->
+<div id="lunr-portal" aria-live="polite"></div>
+
+<!-- <style>
+Portal overlay: no header reflow
+#lunr-portal { position: fixed; inset: 0; z-index: 2000; display: none; }
+#lunr-portal.show { display: block; }
+#lunr-portal .backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.3); }
+#lunr-portal .dialog {
+  position: relative; margin: 4rem auto; max-width: 720px;
+  background: #fff; border-radius: .5rem; box-shadow: 0 1rem 3rem rgba(0,0,0,.175); overflow: hidden;
+}
+#lunr-portal .header { display:flex; align-items:center; justify-content:space-between; padding:.75rem 1rem; border-bottom:1px solid #eee; }
+#lunr-portal .title { margin:0; font-size:1.1rem; }
+#lunr-portal .close { background:none; border:0; font-size:1.5rem; line-height:1; cursor:pointer; }
+#lunr-portal .body  { max-height: 60vh; overflow:auto; padding:1rem; }
+#lunr-portal .footer{ padding:.75rem 1rem; border-top:1px solid #eee; text-align:right; }
+#lunr-portal .btn   { padding:.25rem .5rem; font-size:.875rem; border:1px solid #dc3545; background:#dc3545; color:#fff; border-radius:.25rem; cursor:pointer; }
+
+/* Your existing result styles */
+.lunrsearchresult .title {color: #d9230f;}
+.lunrsearchresult .url {color: silver;}
+.lunrsearchresult a {display: block; color: #777;}
+.lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+.lunrsearchresult a:hover .title {text-decoration: underline;}
+</style> -->
+
 <!-- End Navigation
 ================================================== -->
 
@@ -208,6 +220,7 @@ ga('send', 'pageview');
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
 {% endif %}
 
+<script src="{{ site.baseurl }}/assets/js/lunrsearchengine.js"></script>
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
 
 <!-- {% if page.layout == 'post' %}

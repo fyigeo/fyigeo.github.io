@@ -1,0 +1,217 @@
+<script src="{{site.baseurl}}/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="ძიება..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<!-- <script src="{{site.baseurl}}/assets/js/lunrsearchengine.js"></script> -->
+
+<script>
+// ===== 1) Build a UTF-8 safe documents array right here (Liquid + jsonify) =====
+{% assign counter = 0 %}
+var documents = [
+{% for page in site.pages %}
+  {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}
+  {
+    "id": {{ counter }},
+    "url": {{ (site.url | append: site.baseurl | append: page.url) | jsonify }},
+    "title": {{ page.title | default: "" | jsonify }},
+    "body": {{
+      page.content
+      | markdownify
+      | strip_html
+      | strip_newlines
+      | replace: "  ", " "
+      | jsonify
+    }}
+  },
+  {% assign counter = counter | plus: 1 %}
+  {% endunless %}
+{% endfor %}
+
+{% if site.without-plugin %}
+{% for page in site.without-plugin %}
+  {
+    "id": {{ counter }},
+    "url": {{ (site.url | append: site.baseurl | append: page.url) | jsonify }},
+    "title": {{ page.title | default: "" | jsonify }},
+    "body": {{
+      page.content
+      | markdownify
+      | strip_html
+      | strip_newlines
+      | replace: "  ", " "
+      | jsonify
+    }}
+  },
+  {% assign counter = counter | plus: 1 %}
+{% endfor %}
+{% endif %}
+
+{% for page in site.posts %}
+  {
+    "id": {{ counter }},
+    "url": {{ (site.url | append: site.baseurl | append: page.url) | jsonify }},
+    "title": {{ page.title | default: "" | jsonify }},
+    "body": {{
+        page.date | date: "%Y/%m/%d"
+      | append: " - "
+      | append: page.content
+      | markdownify
+      | strip_html
+      | strip_newlines
+      | replace: "  ", " "
+      | jsonify
+    }}
+  }{% if forloop.last %}{% else %},{% endif %}
+  {% assign counter = counter | plus: 1 %}
+{% endfor %}
+];
+
+// ===== 2) Make Lunr Unicode-friendly (keeps Georgian letters) =====
+if (window.lunr) {
+  // Split tokens only on whitespace (don’t butcher Georgian words)
+  lunr.tokenizer.separator = /[\s]+/;
+
+  // Unicode-aware trimmer (keeps any-letter/number/underscore/hyphen)
+  const unicodeTrimmer = function (token) {
+    const s = token.toString();
+    const isWord = ch => /\p{L}|\p{N}|[_-]/u.test(ch);
+    let i = 0, j = s.length - 1;
+    while (i <= j && !isWord(s[i])) i++;
+    while (j >= i && !isWord(s[j])) j--;
+    const trimmed = (i <= j) ? s.slice(i, j + 1) : "";
+    return token.update(() => trimmed);
+  };
+  lunr.Pipeline.registerFunction(unicodeTrimmer, 'unicodeTrimmer');
+
+  // Build index
+  var idx = lunr(function () {
+    this.ref('id');
+    this.field('title');
+    this.field('body');
+
+    // Remove English-only analyzers
+    this.pipeline.remove(lunr.trimmer);
+    this.pipeline.remove(lunr.stopWordFilter);
+    this.pipeline.remove(lunr.stemmer);
+
+    // Use Unicode trimmer
+    this.pipeline.add(unicodeTrimmer);
+
+    // Same for query-time pipeline
+    this.searchPipeline.remove(lunr.trimmer);
+    this.searchPipeline.remove(lunr.stemmer);
+    this.searchPipeline.add(unicodeTrimmer);
+
+    documents.forEach(function (doc) { this.add(doc); }, this);
+  });
+
+  // ===== 3) One search function (don’t define it twice) =====
+  window.lunr_search = function(term) {
+    var box = document.getElementById('lunrsearchresults');
+    box.innerHTML = '<ul></ul>';
+
+    if (!term) return false;
+
+    box.innerHTML = "<p>Search results for '" + term + "'</p>" + box.innerHTML;
+
+    let results;
+    try {
+      results = idx.search(term);
+    } catch (e) {
+      // Fallback: allow a small typo and treat the whole input as one term
+      results = idx.query(q => {
+        q.term(term, { usePipeline: true, presence: lunr.Query.presence.OPTIONAL, editDistance: 1 });
+      });
+    }
+
+    if (results.length > 0) {
+      const list = box.querySelector('ul');
+      for (var i = 0; i < results.length; i++) {
+        var ref = results[i].ref;
+        var url = documents[ref].url;
+        var title = documents[ref].title;
+        var body = (documents[ref].body || '').substring(0,160) + '…';
+        list.innerHTML += "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
+      }
+    } else {
+      box.querySelector('ul').innerHTML = "<li class='lunrsearchresult'>Sorry, no results found.</li>";
+    }
+
+    return false;
+  };
+}
+</script>
+
+<!-- <style>
+/* Keep results overlay from shifting page layout */
+#lunrsearchresults { position: relative; }
+
+/* If you don't load Bootstrap JS, make the modal behave */
+#resultsmodal.modal {
+  display: block;
+  position: fixed;
+  inset: 0;
+  z-index: 1050;
+  overflow-y: auto;
+  background: rgba(0,0,0,0.3);
+}
+#resultsmodal .modal-dialog {
+  margin: 3.5rem auto;
+  max-width: 720px;
+}
+.modal-open { overflow: hidden; }
+</style> -->
+
+<!-- Body-level portal so results never change header height -->
+<div id="lunr-portal" aria-live="polite"></div>
+
+<style>
+/* Fullscreen overlay (no header reflow) */
+#lunr-portal { position: fixed; inset: 0; z-index: 1050; display: none; }
+#lunr-portal.show { display: block; }
+
+/* Backdrop */
+#lunr-portal .backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.3); }
+
+/* Centered dialog */
+#lunr-portal .dialog {
+  position: relative;
+  margin: 4rem auto;
+  max-width: 720px;
+  background: #fff;
+  border-radius: .5rem;
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+  overflow: hidden;
+}
+
+/* Dialog sections */
+#lunr-portal .header { display:flex; align-items:center; justify-content:space-between; padding: .75rem 1rem; border-bottom: 1px solid #eee; }
+#lunr-portal .title { margin: 0; font-size: 1.1rem; }
+#lunr-portal .close { background: none; border: 0; font-size: 1.5rem; line-height: 1; cursor: pointer; }
+#lunr-portal .body  { max-height: 60vh; overflow: auto; padding: 1rem; }
+#lunr-portal .footer{ padding: .75rem 1rem; border-top: 1px solid #eee; text-align:right; }
+#lunr-portal .btn   { padding: .25rem .5rem; font-size:.875rem; border:1px solid #dc3545; background:#dc3545; color:#fff; border-radius:.25rem; cursor:pointer; }
+
+/* Your existing result styles still apply */
+.lunrsearchresult .title {color: #d9230f;}
+.lunrsearchresult .url {color: silver;}
+.lunrsearchresult a {display: block; color: #777;}
+.lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+.lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>

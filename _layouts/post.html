@@ -103,13 +103,30 @@ post_class: post-template
             {% endif %}
 
             <!-- Post Date -->
-            <p>
+            <!-- <p>
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                 {% if page.last_modified_at %}
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
                 </small>
+            </p> -->
+
+            <p>
+            <small>
+                <span class="post-date">
+                <time class="post-date"
+                        datetime="{{ page.date | date_to_xmlschema }}">
+                    {% include date_ka.html date=page.date %}
+                </time>
+                </span>
+                {% if page.last_modified_at %}
+                (განახლდა:
+                    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
+                    {% include date_ka_short.html date=page.last_modified_at %}
+                    </time>)
+                {% endif %}
+            </small>
             </p>
 
             <!-- Post Categories -->
