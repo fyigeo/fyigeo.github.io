@@ -18,7 +18,7 @@ comments: false
 
 <p><b>1. ხელმისაწვდომობა:</b>
 <br>
-გვჯერა, რომ ცოდნაზე წვდომა უნდა ჰქონდეს ყველას. სწორედ ამიტომ, ჩვენს კონტენტს შეგიძლიათ უყუროთ ვიდეოდ (<a href="https://www.youtube.com/@FYI_Geo">YouTube</a>-ზე), მოისმინოთ პოდკასტად (<a href="https://open.spotify.com/show/6FYiRIQhYucotVVtM2qqbR">Spotify</a>-ზე) ან წაიკითხოთ სტატიად (fyigeo.com). არჩევანი თქვენზეა!</p>
+გვჯერა, რომ ცოდნაზე წვდომა უნდა ჰქონდეს ყველას. სწორედ ამიტომ, ჩვენს კონტენტს შეგიძლიათ უყუროთ ვიდეოდ (<a href="https://www.youtube.com/@FYI_Geo">YouTube</a>-ზე), მოისმინოთ პოდკასტად (<a href="https://open.spotify.com/show/6FYiRIQhYucotVVtM2qqbR">Spotify</a>-ზე) ან წაიკითხოთ სტატიად (<a href="fyigeo.com">fyigeo.com</a>-ზე). არჩევანი თქვენზეა!</p>
 
 <p><b>2. სანდოობა:</b>
 <br>

@@ -6,7 +6,7 @@ categories: [ "ცნობის მიღმა" ]
 tags: [სინგაპური, მოგზაურობა]
 image: assets/images/Singapore.jpeg
 video: https://www.youtube.com/embed/MLPyWM79Pwk
-spotify: https://open.spotify.com/embed/episode/ 
+spotify: https://open.spotify.com/embed/episode/582wcR9fG4HpabAy8UjJoO
 
 ---
 გიზიარებთ ჩემს შთაბეჭდილებებს მსოფლიოს ერთ-ერთ უმდიდრეს ქალაქ-სახელმწიფოში, სინგაპურში, მოგზაურობის შემდეგ.

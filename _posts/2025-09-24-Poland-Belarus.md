@@ -8,8 +8,8 @@ image: assets/images/poland-belarus.jpg
 video: https://www.youtube.com/embed/2-sUWUUou6A&t=14s
 spotify: https://open.spotify.com/embed/episode/6Ifj0PkcivFU9qk2Z3nUMb
 description: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 [9 სექტემბერს](https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/?utm_source=chatgpt.com), ცენტრალური ევროპის დროით დაახლოებით 11 საათსა და 30 წუთზე, პოლონეთის მტკიცებით, მის საჰაერო სივრცეში დაახლოებით 19  რუსული დრონი შეიჭრა ბელარუსის ტერიტორიიდან, რომელთაგან რამდენიმე პოლონეთის სამხედრო ძალებმა ჩამოაგდეს.  
