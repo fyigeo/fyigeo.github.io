@@ -8,8 +8,8 @@ image: assets/images/IndiaUSA.jpg
 video: https://www.youtube.com/embed/XsMbB6uAc-M&t=2s
 spotify: https://open.spotify.com/embed/episode/0c3rugfFigj4gBhzsTvYU5
 description: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 6 სექტემბერს დონალდ ტრამპმა [განაცხადა](https://www.reuters.com/world/china/trump-says-india-russia-appear-lost-deepest-darkest-china-2025-09-05/), რომ ინდოეთი და რუსეთი, “როგორც ჩანს, “ბნელ ჩინეთს შეუერთდნენ. საინტერესოა, რომ ეს განცხადება [ამ კადრებს](https://www.youtube.com/watch?v=BYW8nmBJXNI&t=1s) მოყვა, სადაც სამი უდიდესი ქვეყნის - ჩინეთის, ინდოეთისა და რუსეთის - ლიდერები, სიამოვნებით ურთიერთობენ ერთმანეთთან ტიანძინში, “შანხაის თანამშრომლობის ორგანიზაციის” ისტორიულ სამიტზე.
