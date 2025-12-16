@@ -4,7 +4,7 @@ title:  "ჩინეთის ფარული ძალა და შეე�
 author: ketevan
 categories: [ სამხრეთ აზია, ჩინეთი, აშშ ]
 tags: [ჩინეთი, აშშ, რესურსები, ომი]
-image: assets/images/China-rare-earth.jpg
+image: assets/images/ChinaGambit.jpg
 video: https://www.youtube.com/embed/Xjp0Ek-H8C8
 spotify: https://open.spotify.com/embed/episode/5t1DKgtawrBUFk2HVwh8HJ
 description: sdf
