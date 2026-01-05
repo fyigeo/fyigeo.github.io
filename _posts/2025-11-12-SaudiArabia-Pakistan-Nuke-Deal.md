@@ -8,8 +8,8 @@ image: assets/images/Saudi-Pakistan2.jpg
 video: https://www.youtube.com/embed/tSuzP59vAZ8
 spotify: https://open.spotify.com/embed/episode/1d3Jt5nFpW2FVF3FqyCuPb
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 შეთანხმება, რომელსაც არავინ ელოდა. 
