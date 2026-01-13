@@ -8,8 +8,8 @@ image: assets/images/ChinaGambit.jpg
 video: https://www.youtube.com/embed/Xjp0Ek-H8C8
 spotify: https://open.spotify.com/embed/episode/5t1DKgtawrBUFk2HVwh8HJ
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 რომელია გეოპოლიტიურად ყველაზე მნიშვნელოვანი ბუნებრივი რესურსი? ალბათ ფიქრობთ, რომ ნავთობი ან ბუნებრივი აირი, რაც ნამდვილად ასე იყო ინდუსტრიული რევოლუციიდან მოყოლებული, მაგრამ ტექნოლოგიებისა და ხელოვნური ინტელექტის ეპოქაში, ეს სურათი იცვლება. 
