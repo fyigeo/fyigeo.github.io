@@ -8,8 +8,8 @@ image: assets/images/southchinasea.jpg
 video: https://www.youtube.com/embed/3y3Mx9OMeU8
 spotify: https://open.spotify.com/embed/episode/7nsSuFys4jT9gYFnEFaJBe
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 შეხედეთ ამ რუკას — ეს არის სამხრეთ ჩინეთის ზღვა, მსოფლიოს ერთ-ერთი ყველაზე სადაო და ტურბულენტური რეგიონი. ჩინეთი ცდილობს ამ ზღვაზე თითქმის სრული კონტროლის მოპოვებას, მაშინ როცა თავისი [პრეტენზიები](https://www.bbc.com/news/world-asia-pacific-13748349) აქვთ ტაივანს, ვიეტნამს, მალაიზიას, ბრუნეისა და ფილიპინებს. ამიტომ, ბევრი ფიქრობს, რომ სწორედ აქ შეიძლება გაჩნდეს შემდეგი დიდი კონფლიქტი.
