@@ -8,8 +8,8 @@ image: assets/images/maduro.jpg
 video: https://www.youtube.com/embed/STb2E7sShMw
 spotify: https://open.spotify.com/embed/episode/3capWji6mDqr2gi8jwhpkw
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ეს ვლადიმერ პუტინი და ნიკოლას მადუროა სულ რამდენიმე თვის წინ მოსკოვში, როდესაც მხარეებმა [სტრატეგიული პარტნიორობის ხელშეკრულება](https://www.chinadailyhk.com/hk/article/611217) გააფორმეს. 
