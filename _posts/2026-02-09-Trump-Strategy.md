@@ -8,8 +8,8 @@ image: assets/images/trumpgame.jpg
 video: https://www.youtube.com/embed/3mA4jMTb02c
 spotify: https://open.spotify.com/embed/episode/3NZJUoDuFXrYxyb8358RZK
 description: sdf
-featured: true
-hidden: true
+featured: falase
+hidden: false
 ---
 
 როგორ შეცვლის დონალდ ტრამპი მსოფლიოს თავის მეორე საპრეზიდენტო ვადაში?
