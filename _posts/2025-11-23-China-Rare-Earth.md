@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "ჩინეთის ფარული ძალა და შეერთებული შტატების ყველაზე სუსტი წერტილი: თანამედროვე რესურსების ომი"
+title:  "პეკინმა ზუსტად იცის სად დაარტყას ვაშინგტონს და ამას ჩინეთი მსოფლიო კონტროლისთვის იყენებს"
 author: ketevan
 categories: [ სამხრეთ აზია, ჩინეთი, აშშ ]
 tags: [ჩინეთი, აშშ, რესურსები, ომი]
-image: assets/images/ChinaGambit.jpg
+image: assets/images/ChinaTrumpCard.jpg
 video: https://www.youtube.com/embed/Xjp0Ek-H8C8
 spotify: https://open.spotify.com/embed/episode/5t1DKgtawrBUFk2HVwh8HJ
 description: sdf

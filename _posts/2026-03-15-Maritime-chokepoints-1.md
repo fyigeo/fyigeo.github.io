@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "ყველაზე საშიში საზღვაო არტერიები, სადაც დიდი ფული და სამხედრო ტექნიკა გადაადგილდება"
+title:  "ყველაზე საშიში საზღვაო გზები, სადაც დიდი ფული ტრიალებს "
 author: ketevan
 categories: [მსოფლიო, აფრიკა, ახლო აღმოსავლეთი]
 tags: [ეკონომიკა, ახლო აღმოსავლეთი, ევროპა, შავი ზღვა, აფრიკა]
-image: assets/images/chokepoints1.jpg
+image: assets/images/weakpoints.jpg
 video: https://www.youtube.com/embed/I02B6Auzc94
 spotify: https://open.spotify.com/embed/episode/6NqHgYgj396HaEwifJdIHF
 description: sdf
