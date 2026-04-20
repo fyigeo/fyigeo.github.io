@@ -8,8 +8,8 @@ image: assets/images/weakpoints.jpg
 video: https://www.youtube.com/embed/I02B6Auzc94
 spotify: https://open.spotify.com/embed/episode/6NqHgYgj396HaEwifJdIHF
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ეკონომიკა და ვაჭრობა მსოფლიოს გეოპოლიტიკის განუყოფელი ნაწილია. ჩვენ ხშირად ვსაუბრობთ რესურსებზე, რომლებსაც სტრატეგიული მნიშვნელობა აქვთ — ნავთობზე, კრიტიკულ მინერალებზე, ნახევარგამტარებზე ანუ ჩიპებზე.
