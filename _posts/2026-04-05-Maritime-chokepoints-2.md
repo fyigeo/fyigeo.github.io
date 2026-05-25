@@ -8,8 +8,8 @@ image: assets/images/chokepoints2.jpg
 video: https://www.youtube.com/embed/NcuxH-MQQFk
 spotify: https://open.spotify.com/embed/episode/67oCtLMbCF6YT6VcAAENHn
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ჩვენს გარშემო უამრავი ხმაურიანი კონფლიქტია, მაგრამ მსოფლიოს ყველაზე ძლიერი ქვეყნები ხშირად ხმელეთზე კი არა — ოკეანეებში, ვიწრო საზღვაო გზებისთვის ჩუმად იბრძვიან.  

@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "რას გვიმალავენ? კოსმოსური ომი უკვე დაწყებულია?!"
+title:  "თუ ეს მოხდა, მსოფლიო გაჩერდება: დიდი კოსმოსური საიდუმლო ცნობილია!"
 author: ketevan
 categories: [მსოფლიო]
 tags: [აშშ, ჩინეთი, რუსეთი, კოსმოსი]
-image: assets/images/spacerace1.jpg
+image: assets/images/spacerace2.jpg
 video: https://www.youtube.com/embed/FDfSlKvwUQ0
 spotify: https://open.spotify.com/embed/episode/5qtGJ3R8GmAGJot8SckDL2
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 წარმოიდგინეთ, იღვიძებ ერთ დილას და ინტერნეტი არ მუშაობს, ბანკომატები გათიშულია, GPS-ი არ გიჩვენებს გზას, თვითმფრინავების რეისები გაჩერებულია და მსოფლიოში სრული საკომუნიკაციო ქაოსია. 
 
