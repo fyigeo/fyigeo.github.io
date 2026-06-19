@@ -8,8 +8,8 @@ image: assets/images/ai-warfare-thumbnail.jpg
 video: https://www.youtube.com/embed/vBlGvnpvLZk
 spotify: https://open.spotify.com/embed/episode/1yXS9HEpDs3Nko2APhbnJG
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 ომი ის აღარ არის, რაც გგონია. ტანკები, რაკეტები ან ათასობით ძლიერი შეირაღების ჯარისკაცი უკვე ნაკლებად წყვეტს ომის ბედს.
 
