@@ -8,8 +8,8 @@ image: assets/images/china-india-thumbnail.jpg
 video: https://www.youtube.com/embed/WenSiaK4wbs&t=642s
 spotify: https://open.spotify.com/embed/episode/0nD6p4ORmZJXUAOxnPVDwX
 description: sdf
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 მსოფლიოს ყველაზე მაღალ ადგილას, ჰიმალაის მთების ულამაზეს ლანდშაფტებში, ერთი დიდი გეოპოლიტიკური ნაღმი იმალება – ჩინეთ-ინდოეთის კონფლიქტი. 
