@@ -5,7 +5,7 @@ author: ketevan
 categories: [რუსეთი, ევროპა, ამერიკა]
 tags: [რუსეთი, ნატო, ევროპა, აშშ]
 image: assets/images/subseacablesthumb.jpg
-video: https://www.youtube.com/embed/a2MUa65GUbw&t=8s
+video: https://www.youtube.com/embed/a2MUa65GUbw
 spotify: https://open.spotify.com/embed/episode/6cK6xHz2qnJNz1G5BwoT7P
 description: sdf
 featured: true
