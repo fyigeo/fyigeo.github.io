@@ -57,6 +57,45 @@
   padding: 0 .5rem;
 }
 
+/* "იდეების ლაბორატორია" link card on the ცოდნისთვის page */
+.idea-lab-card {
+  display: block;
+  max-width: 480px;
+  border-radius: 0.25rem;
+  overflow: hidden;
+  box-shadow: 0 1px 7px rgba(0, 0, 0, .08);
+  transition: box-shadow .2s ease, transform .2s ease;
+  text-decoration: none;
+}
+.idea-lab-card:hover,
+.idea-lab-card:focus {
+  box-shadow: 0 4px 18px rgba(0, 0, 0, .14);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+.idea-lab-card img {
+  width: 100%;
+  display: block;
+}
+.idea-lab-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: .9rem 1.25rem;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, .08);
+  border-top: 0;
+}
+.idea-lab-card-title {
+  font-weight: 700;
+  color: #212529;
+}
+.idea-lab-card-arrow {
+  color: #EC6165;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
 /* Your existing result styles */
 .lunrsearchresult .title {color: #d9230f;}
 .lunrsearchresult .url {color: silver;}
