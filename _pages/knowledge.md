@@ -31,7 +31,7 @@ comments: false
 <div class="col-md-8">
 
 <a class="idea-lab-card" href="{{ site.baseurl }}/idea-lab">
-    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/ideas-lab.jpeg" alt="იდეების ლაბორატორია">
+    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/ideas-lab.png" alt="იდეების ლაბორატორია">
     <div class="idea-lab-card-footer">
         <span class="idea-lab-card-title">იდეების ლაბორატორია</span>
         <span class="idea-lab-card-arrow">&#8594;</span>

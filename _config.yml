@@ -1,8 +1,8 @@
 # Site
-name: "გეოპოლიტიკა მარტივად"
-title: "გეოპოლიტიკა მარტივად"
+name: "ცნობისთვის"
+title: "ცნობისთვის"
 description: "ფაქტები | ანალიზი | ხედვა"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/FYI.LOGO.Round.2.png'
 favicon: 'assets/images/logo.png'
 url: https://www.fyigeo.com/
 baseurl: ''
