@@ -3,6 +3,7 @@ layout: post
 title:  "ახალი ბლოკი ამერიკის წინააღმდეგ? ტრამპის გაორმაგებული ტარიფები ინდოეთს და შანხაის სამიტის გზავნილები"
 author: ketevan
 categories: [ რუსეთი, ჩინეთი, ევროპა ]
+regions: [china, usa, asia]
 tags: [რუსეთი, ომი, ბელარუსი, ნატო, ევროკავშირი]
 image: assets/images/IndiaUSA.jpg
 video: https://www.youtube.com/embed/XsMbB6uAc-M&t=2s

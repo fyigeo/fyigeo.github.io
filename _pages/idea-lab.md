@@ -12,6 +12,13 @@ comments: false
 <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/images/ideas-lab-new.png" alt="იდეების ლაბორატორია">
 </p>
 
+<p class="text-center">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe8eSh3yNR172t1hHBffsVjYZqBYGeRKtILvdzFybDO6BS9ew/viewform" target="_blank" rel="noopener" class="apply-cta">
+<i class="fas fa-file-signature"></i>
+<span>განაცხადის შევსება</span>
+</a>
+</p>
+
 #### გინდა გაიგო, როგორ იცვლება მსოფლიო — და ისწავლო, როგორ გააანალიზო ეს ცვლილებები პროფესიონალივით?
 
 სწორედ ამისთვის „ცნობისთვის“ ახალ პროექტს — **„იდეების ლაბორატორიას“** იწყებს **2026 წლის 19 სექტემბრიდან - 25 ოქტომბრის ჩათვლით**.
@@ -92,6 +99,13 @@ comments: false
 ასევე შეხვდები სფეროს პროფესიონალებს და შეიტყობ, როგორ გააგრძელო განვითარება საერთაშორისო ურთიერთობებში და როგორ გამოიყენო პროგრამის განმავლობაში მიღებული გამოცდილება კარიერული წინსვლისთვის.
 
 დამატებითი შეკითხვებისთვის დაგვიკავშირდი ნებისმიერ სოციალურ პლატფორმაზე შეტყობინების სახით, ან მოგვწერე იმეილზე: **ketevan.fyi@gmail.com**
+
+<p class="text-center">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe8eSh3yNR172t1hHBffsVjYZqBYGeRKtILvdzFybDO6BS9ew/viewform" target="_blank" rel="noopener" class="apply-cta">
+<i class="fas fa-file-signature"></i>
+<span>განაცხადის შევსება</span>
+</a>
+</p>
 
 </div>
 </div>

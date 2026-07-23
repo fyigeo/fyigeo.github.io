@@ -3,6 +3,7 @@ layout: post
 title:  "ჩინეთის სრული კონტროლი? ყველაზე სადაო საზღვაო ზონა მსოფლიოში, სადაც შეიძლება საუკუნის ომი დაიწყოს"
 author: ketevan
 categories: [ სამხრეთ აზია, ჩინეთი, აშშ ]
+regions: [china, usa, asia, maritime-routes]
 tags: [ჩინეთი, აშშ, რესურსები, ომი]
 image: assets/images/southchinasea.jpg
 video: https://www.youtube.com/embed/3y3Mx9OMeU8

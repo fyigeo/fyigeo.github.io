@@ -3,6 +3,7 @@ layout: post
 title:  შუა დერეფანი მსოფლიო ვაჭრობას ცვლის? საქართველო და კავკასია გეოპოლიტიკურ რუკაზე
 author: ketevan
 categories: [ საქართველო, სამხრეთ კავკასია, ჩინეთი, ევროპა ]
+regions: [georgia-caucasus, russia, europe, china, asia]
 tags: [რუსეთი, ვაჭრობა, ირანი, აშშ]
 image: assets/images/middlecorridorthumb.jpg
 video: https://www.youtube.com/embed/rufyvv-jx0A

@@ -3,6 +3,7 @@ layout: post
 title:  "როგორ მუშაობს პუტინის პროპაგანდა და იდეოლოგია"
 author: ketevan
 categories: [რუსეთი]
+regions: [russia]
 tags: [რუსეთი, პროპაგანდა]
 image: assets/images/RussianProgaganda.jpeg
 video: https://www.youtube.com/embed/O3WTtJjBEQQ

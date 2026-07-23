@@ -3,6 +3,7 @@ layout: post
 title:  "ამერიკასთან ომი გარდაუვალია? სიმართლე ირანის ატომურ იარაღზე"
 author: ketevan
 categories: [ახლო აღმოსავლეთი, აშშ]
+regions: [middle-east, usa]
 tags: [ირანი, აშშ, ბირთვული იარაღი, ომი]
 image: assets/images/IranNukesDeal.jpeg
 video: https://www.youtube.com/embed/aDFasjiMeEM 

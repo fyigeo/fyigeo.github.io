@@ -3,6 +3,7 @@ layout: post
 title:  "დასავლეთის სანქციები ჩაიშალა? როგორია რუსეთის ომის ეკონომიკა სინამდვილეში"
 author: ketevan
 categories: [ რუსეთი, ევროპა, აშშ ]
+regions: [russia]
 tags: [დასავლეთი, სანქციები, ეკონომიკა უკრაინა, ომი]
 image: assets/images/Russia-Economic-Crisis.jpeg
 video: https://www.youtube.com/embed/dOBfEmMSh5o 

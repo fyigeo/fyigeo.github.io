@@ -3,6 +3,7 @@ layout: post
 title:  "ახალი რეალობა კავკასიაში: სომხეთ-რუსეთის დაპირისპირება, აზერბაიჯანთან ზავი და ზანგეზურის დერეფანი"
 author: ketevan
 categories: [ რუსეთი, სამხრეთ კავკასია ]
+regions: [georgia-caucasus]
 tags: [სომხეთი, აზერბაიჯანი, ზანგეზური]
 image: assets/images/Armenia.jpeg
 video: https://www.youtube.com/embed/jCJ6DySjXGs 

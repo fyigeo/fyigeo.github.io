@@ -3,6 +3,7 @@ layout: post
 title:  "ვინ განაგებს მსოფლიოს სინამდვილეში 2025 წელს?"
 author: ketevan
 categories: [აშშ]
+regions: [usa]
 tags: [აშშ, დასავლეთი, დიფსთეითი]
 image: assets/images/DeepState.jpeg
 video: https://www.youtube.com/embed/6vRXU8dFECmHfFmTMJT1Lm?

@@ -3,6 +3,7 @@ layout: post
 title:  "ახალი ტერიტორიული გადანაწილება 2025 წელს? ტრამპის რეალური მიზნები გრენლანდიაში"
 author: ketevan
 categories: [აშშ]
+regions: [europe, usa]
 tags: [აშშ, დასავლეთი, ტრამპი, გრენლანდია, ეკონომიკა]
 image: assets/images/Greenland.jpeg
 video: https://www.youtube.com/embed/a1R0a9l29RU

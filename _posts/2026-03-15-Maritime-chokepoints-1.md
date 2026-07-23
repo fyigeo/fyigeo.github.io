@@ -3,6 +3,7 @@ layout: post
 title:  "ყველაზე საშიში საზღვაო გზები, სადაც დიდი ფული ტრიალებს "
 author: ketevan
 categories: [მსოფლიო, აფრიკა, ახლო აღმოსავლეთი]
+regions: [europe, middle-east, china, asia, maritime-routes]
 tags: [ეკონომიკა, ახლო აღმოსავლეთი, ევროპა, შავი ზღვა, აფრიკა]
 image: assets/images/weakpoints.jpg
 video: https://www.youtube.com/embed/I02B6Auzc94

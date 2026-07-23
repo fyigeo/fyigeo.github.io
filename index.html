@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ანალიტიკა
+title: მთავარი
 ---
 
 {% if page.url == "/" %}
@@ -34,13 +34,9 @@ title: ანალიტიკა
     </div>
     <div class="row listrecent">
 
-    {% for post in site.posts %}
+    {% for post in site.posts limit:4 %}
 
-        {% if post.featured == true %}
-
-            {% include postbox.html %}
-
-        {% endif %}
+        {% include postbox.html %}
 
     {% endfor %}
 

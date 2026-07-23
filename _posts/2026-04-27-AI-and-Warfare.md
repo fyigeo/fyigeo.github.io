@@ -3,6 +3,7 @@ layout: post
 title:  "საიდუმლო იარაღი, რომელიც ირანში გამოსცადეს: დიდი სკანდალი შეერთებულ შტატებში"
 author: ketevan
 categories: [ახლო აღმოსავლეთი, აშშ]
+regions: [middle-east, usa, invisible-wars]
 tags: [ისრაელი, ირანი, ომი]
 image: assets/images/ai-warfare-thumbnail.jpg
 video: https://www.youtube.com/embed/vBlGvnpvLZk

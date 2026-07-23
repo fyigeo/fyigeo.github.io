@@ -3,6 +3,7 @@ layout: post
 title:  "მტრები აღმოჩნდნენ? რა ხდება რუსეთსა და ჩინეთს შორის სინამდვილეში?"
 author: ketevan
 categories: [ რუსეთი, ჩინეთი ]
+regions: [russia, china, asia]
 tags: [რუსეთი, ჩინეთი, ომი]
 image: assets/images/Russia-China-UAS.jpg
 video: https://www.youtube.com/embed/5i7d0-KGm-E

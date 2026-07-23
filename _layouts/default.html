@@ -78,7 +78,16 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">ანალიტიკა</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">მთავარი</a>
+                </li>
+
+                <li class="nav-item dropdown">
+                <a class="nav-link" href="{{ site.baseurl }}/news">ცნობისთვის</a>
+                <span class="dropdown-toggle dropdown-caret" role="button" tabindex="0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="ცნობისთვის მენიუ"></span>
+                <div class="dropdown-menu" aria-labelledby="analyticsDropdown">
+                    <a class="dropdown-item" href="{{ site.baseurl }}/latest-analytics">ბოლოს ატვირთული</a>
+                    <a class="dropdown-item" href="{{ site.baseurl }}/world-analytics">მსოფლიო ანალიტიკა</a>
+                </div>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -146,6 +155,7 @@ Portal overlay: no header reflow
 
 <div class="container">
 
+{% if page.url == "/" %}
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
@@ -154,6 +164,7 @@ Portal overlay: no header reflow
         {{ site.description }}
     </p>
 </div>
+{% endif %}
 
 <!-- Content
 ================================================== -->
@@ -180,6 +191,34 @@ Portal overlay: no header reflow
     
 </div>
 
+{% if page.url == "/" %}
+<!-- Region Filters
+================================================== -->
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+            <div class="d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">მეტი <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+            <div class="region-filters justify-content-center">
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics">ყველა</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=georgia-caucasus">საქართველო და კავკასია</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=russia">რუსეთი</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=usa">შეერთებული შტატები</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=china">ჩინეთი</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=europe">ევროპა</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=middle-east">ახლო აღმოსავლეთი</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=asia">აზია</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=south-america">ლათინური და სამხრეთ ამერიკა</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=invisible-wars">უხილავი ომები</a>
+            <a class="region-filter" href="{{ site.baseurl }}/world-analytics?region=maritime-routes">საზღვაო მარშრუტები</a>
+            </div>
+		</div>
+	</div>
+</div>
+{% else %}
 <!-- Categories Jumbotron
 ================================================== -->
 <div class="jumbotron fortags">
@@ -204,6 +243,7 @@ Portal overlay: no header reflow
 		</div>
 	</div>
 </div>
+{% endif %}
 
 <!-- Begin Footer
 ================================================== -->

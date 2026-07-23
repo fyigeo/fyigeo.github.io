@@ -3,6 +3,7 @@ layout: post
 title:  "რატომ დაიწყო ომი უკრაინაში?"
 author: ketevan
 categories: [რუსეთი]
+regions: [russia]
 tags: [რუსეთი, უკრაინა, ომი, აშშ, ბაიდენი]
 image: assets/images/War-Ukraine.jpeg
 video: https://www.youtube.com/embed/0LEfZDHiVM8

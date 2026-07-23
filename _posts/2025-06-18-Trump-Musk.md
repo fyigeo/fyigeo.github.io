@@ -3,6 +3,7 @@ layout: post
 title:  "დიდი გაყრა: ტრამპის და მასკის დაპირისპირების რეალური მიზეზი"
 author: ketevan
 categories: [ აშშ, დასავლეთი ]
+regions: [usa]
 tags: [ტრამპი, მასკი]
 image: assets/images/Trump-Musk.jpeg
 video: https://www.youtube.com/embed/Ydm1fN7J27k

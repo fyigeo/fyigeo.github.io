@@ -3,6 +3,7 @@ layout: post
 title:  "აშშ-ირანის ურთიერთგაგების მემორანდუმი - სრული ტექსტი"
 author: ketevan
 categories: [ახლო აღმოსავლეთი, ამერიკა]
+regions: [middle-east]
 tags: [აშშ, ირანი]
 image: assets/images/US-Iran_MOU.jpg
 description: sdf

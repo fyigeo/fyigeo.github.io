@@ -3,6 +3,7 @@ layout: post
 title:  "რა უნდა პუტინს ოკეანის ფსკერზე? ფარული გეოპოლიტიკური დაპირისპირება წყალქვეშ"
 author: ketevan
 categories: [რუსეთი, ევროპა, ამერიკა]
+regions: [georgia-caucasus, russia, europe, usa, invisible-wars]
 tags: [რუსეთი, ნატო, ევროპა, აშშ]
 image: assets/images/subseacablesthumb.jpg
 video: https://www.youtube.com/embed/a2MUa65GUbw

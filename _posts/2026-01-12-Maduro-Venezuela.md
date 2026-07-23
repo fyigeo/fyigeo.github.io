@@ -3,6 +3,7 @@ layout: post
 title:  "ტრამპის ახალი დოქტრინა და საიდუმლო ოპერაცია ვენესუელაში: ამერიკის მორიგი გეოპოლიტიკური თამაში"
 author: ketevan
 categories: [აშშ, სამხრეთ ამერიკა]
+regions: [usa, south-america]
 tags: [ჩინეთი, აშშ, ომი, ვენესუელა, მადურო, ტრამპი]
 image: assets/images/maduro.jpg
 video: https://www.youtube.com/embed/STb2E7sShMw

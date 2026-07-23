@@ -3,6 +3,7 @@ layout: post
 title:  "როგორ ცვლის ტრამპის ტარიფები მსოფლიო წესრიგს - ვაჭრობის ომი დაწყებულია!"
 author: ketevan
 categories: [აშშ]
+regions: [usa]
 tags: [აშშ, დასავლეთი, ეკონომიკა, მექსიკა, კანადა]
 image: assets/images/US-Tariffs.jpeg
 video: https://www.youtube.com/embed/VSGrDvyRQMI

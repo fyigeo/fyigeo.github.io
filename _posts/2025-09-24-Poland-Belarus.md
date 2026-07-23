@@ -3,6 +3,7 @@ layout: post
 title:  "რუსული დრონები პოლონეთში შეიჭრნენ: ნატო-ს პასუხი პროვოკაციაზე და ჩინეთის ეკონომიკური ინტერესები"
 author: ketevan
 categories: [ რუსეთი, ჩინეთი, ევროპა ]
+regions: [russia, europe]
 tags: [რუსეთი, ომი, ბელარუსი, ნატო, ევროკავშირი]
 image: assets/images/poland-belarus.jpg
 video: https://www.youtube.com/embed/2-sUWUUou6A&t=14s

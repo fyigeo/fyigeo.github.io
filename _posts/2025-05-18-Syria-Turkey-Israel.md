@@ -3,6 +3,7 @@ layout: post
 title:  "ისრაელი და თურქეთი სირიის გამო ომს იწყებენ?"
 author: ketevan
 categories: [ ახლო აღმოსავლეთი ]
+regions: [middle-east]
 tags: [სირია, ისრაელი, თურქეთი, ომი]
 image: assets/images/Syria-Israel-Turkey.jpeg
 video: https://www.youtube.com/embed/GxOhz0SdJc0

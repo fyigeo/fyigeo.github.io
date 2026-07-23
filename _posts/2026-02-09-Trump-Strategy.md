@@ -3,6 +3,7 @@ layout: post
 title:  "ახალი მსოფლიო წესრიგი: როგორ შეცვლის ტრამპი მსოფლიოს 2026 წელს?"
 author: ketevan
 categories: [აშშ, მსოფლიო]
+regions: [usa]
 tags: [აშშ, ტრამპი, დასავლეთ ნახევარსფერო, ევროპა, აზია, ახლო აღმოსავლეთი, აფრიკა]
 image: assets/images/trumpgame.jpg
 video: https://www.youtube.com/embed/3mA4jMTb02c

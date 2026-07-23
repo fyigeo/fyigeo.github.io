@@ -3,6 +3,7 @@ layout: post
 title:  "ქვეყანა მთავრობის გარეშე: ევროკავშირი და TikTok რუმინეთის არჩევნებში ჩაერია?"
 author: ketevan
 categories: [ ევროპა ]
+regions: [europe]
 tags: [რუმინეთი, არჩევნები, დასავლეთი, ევროპა]
 image: assets/images/RomaniaElections.jpeg
 video: https://www.youtube.com/embed/RveRZ05vqBc

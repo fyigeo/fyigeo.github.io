@@ -3,6 +3,7 @@ layout: post
 title:  "ირანის ფარული ომი: ვინ ებრძვის ამერიკასა და ისრაელს ირანის სახელით?"
 author: ketevan
 categories: [ახლო აღმოსავლეთი, აშშ]
+regions: [middle-east, usa]
 tags: [ირანი, აშშ, ისრაელი, ბირთვული იარაღი, ომი]
 image: assets/images/IranPower.jpeg
 video: https://www.youtube.com/embed/ThVWEmzsLNo

@@ -3,6 +3,7 @@ layout: post
 title:  "რა სურს ტრამპს სინამდვილეში: დაიბრუნებს პანამის არხს 2025 წელს?"
 author: ketevan
 categories: [აშშ]
+regions: [usa, south-america]
 tags: [აშშ, დასავლეთი, ტრამპი, პანამა, პანამისარხი, ეკონომიკა]
 image: assets/images/PanamaCanal.jpeg
 video: https://www.youtube.com/embed/PmwNJeDZnSQ

@@ -3,6 +3,7 @@ layout: post
 title:  "თუ ეს მოხდა, მსოფლიო გაჩერდება: დიდი კოსმოსური საიდუმლო ცნობილია!"
 author: ketevan
 categories: [მსოფლიო]
+regions: [china, usa, asia, invisible-wars]
 tags: [აშშ, ჩინეთი, რუსეთი, კოსმოსი]
 image: assets/images/spacerace2.jpg
 video: https://www.youtube.com/embed/FDfSlKvwUQ0

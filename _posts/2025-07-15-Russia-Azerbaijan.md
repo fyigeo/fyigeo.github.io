@@ -3,6 +3,7 @@ layout: post
 title:  "როგორ გაუთამამდა აზერბაიჯანი რუსეთს: ახალი რეალობა კავკასიაში და კრემლის სუსტი პასუხი"
 author: ketevan
 categories: [ რუსეთი, სამხრეთ კავკასია ]
+regions: [georgia-caucasus, russia]
 tags: [რუსეთი, აზერბაიჯანი, მსოფლიო ამბები]
 image: assets/images/Russia-Azerbaijan.jpeg
 video: https://www.youtube.com/embed/02el3F-AjQw

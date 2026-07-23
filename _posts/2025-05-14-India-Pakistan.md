@@ -3,6 +3,7 @@ layout: post
 title:  "ვის ეკუთვნის ქაშმირი? ინდოეთის და პაკისტანის 80-წლიანი დაპირისპირება"
 author: ketevan
 categories: [ აზია, სამხრეთ აზია ]
+regions: [middle-east, china]
 tags: [ინდოეთი, პაკისტანი, ქაშმირი, ომი, ბირთვულიომი]
 image: assets/images/India-Pakistan.jpeg
 video: https://www.youtube.com/embed/UyrTOfF9e-c

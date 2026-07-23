@@ -3,6 +3,7 @@ layout: post
 title:  "ყველაფერი აქ წყდება: კიდევ სამი ყველაზე საშიში საზღვაო გზა, სადაც დიდი ფული ტრიალებს"
 author: ketevan
 categories: [მსოფლიო, სამხრეთ აზია, სამხრეთ ამერიკა]
+regions: [china, usa, asia, maritime-routes]
 tags: [აშშ, ჩინეთი, პანამა]
 image: assets/images/chokepoints2.jpg
 video: https://www.youtube.com/embed/NcuxH-MQQFk

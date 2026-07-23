@@ -3,6 +3,7 @@ layout: post
 title:  "პეკინმა ზუსტად იცის სად დაარტყას ვაშინგტონს და ამას ჩინეთი მსოფლიო კონტროლისთვის იყენებს"
 author: ketevan
 categories: [ სამხრეთ აზია, ჩინეთი, აშშ ]
+regions: [china, usa, asia]
 tags: [ჩინეთი, აშშ, რესურსები, ომი]
 image: assets/images/ChinaTrumpCard.jpg
 video: https://www.youtube.com/embed/Xjp0Ek-H8C8

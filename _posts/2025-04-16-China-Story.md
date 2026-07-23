@@ -3,6 +3,7 @@ layout: post
 title:  "ასე დაიწყო ჩინეთის ეპოქა: სიღატაკიდან მსოფლიოს ბატონობის ამბიციამდე"
 author: ketevan
 categories: [ჩინეთი, აზია]
+regions: [china, asia]
 tags: [ეკონომიკა, ჩინეთი]
 image: assets/images/ChinaDevelopment.jpeg
 video: https://www.youtube.com/embed/tR0KnxpYKLM

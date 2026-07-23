@@ -3,6 +3,7 @@ layout: post
 title:  "ახალი ბირთვული შეთანხმება: საუდის არაბეთი და პაკისტანი ამერიკის წინააღმდეგ ერთიანდებიან?"
 author: ketevan
 categories: [ ახლო აღმოსავლეთი, აშშ ]
+regions: [middle-east, usa, asia]
 tags: [პაკისტანი, საუდის არაბეთი, ბირთვული]
 image: assets/images/Saudi-Pakistan2.jpg
 video: https://www.youtube.com/embed/tSuzP59vAZ8

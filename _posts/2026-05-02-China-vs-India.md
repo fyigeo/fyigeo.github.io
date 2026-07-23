@@ -3,6 +3,7 @@ layout: post
 title:  "აზიის ცივი ომი: ჩინეთი vs. ინდოეთი"
 author: ketevan
 categories: [სამხრეთ აზია]
+regions: [china, asia]
 tags: [ჩინეთი, ინდოეთი, ომი]
 image: assets/images/china-india-thumbnail.jpg
 video: https://www.youtube.com/embed/WenSiaK4wbs&t=642s

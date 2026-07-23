@@ -3,6 +3,7 @@ layout: post
 title:  "რა დაემართა ევროპას: გეოპოლიტიკური და ეკონომიკური დაღმასვლის რეალური მიზეზები"
 author: ketevan
 categories: [ევროპა, აშშ]
+regions: [europe]
 tags: [ეკონომიკა, ინოვაციები, ევროკავშირი]
 image: assets/images/Europe-now.jpg
 video: https://www.youtube.com/embed/kyo5HUS7SAY

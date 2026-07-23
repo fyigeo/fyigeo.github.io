@@ -3,6 +3,7 @@ layout: post
 title:  "ვინ აკონტროლებს შუა დერეფანს და ევრაზიის ახალ კარიბჭეს?"
 author: ketevan
 categories: [რუსეთი, ევროპა, ამერიკა, მსოფლიო, უხილავი იარაღი]
+regions: [georgia-caucasus, china, asia]
 tags: [რუსეთი, იაპონია, გერმანია, აშშ]
 image: assets/images/kazakhstan.thumb.jpeg
 video: https://www.youtube.com/embed/GR1DtDeR1HQ
