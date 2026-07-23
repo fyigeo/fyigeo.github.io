@@ -3,7 +3,7 @@ name: "ცნობისთვის"
 title: "ცნობისთვის"
 description: "ფაქტები | ანალიზი | ხედვა"
 logo: 'assets/images/FYI.LOGO.Round.2.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/FYI.LOGO.Round.2.png'
 url: https://www.fyigeo.com/
 baseurl: ''
 # baseurl: /fyigeo.github.io

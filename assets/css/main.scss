@@ -3,6 +3,11 @@
 # Change this file for any custom CSS.
 ---
 
+/* Bigger heading for sub-pages (ცოდნისთვის, ცნობისთვის, ჩვენს შესახებ, კონტაქტი, etc.) */
+.page-title h2 {
+  font-size: 2rem;
+}
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
