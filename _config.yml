@@ -3,7 +3,7 @@ name: "ცნობისთვის"
 title: "ცნობისთვის"
 description: "ფაქტები | ანალიზი | ხედვა"
 logo: 'assets/images/FYI.LOGO.Round.Transparent.png'
-favicon: 'assets/images/FYI.LOGO.Round.Transparent.png'
+favicon: 'assets/images/FYI.LOGO.Round.Transparent.WhiteCircle.png'
 url: https://www.fyigeo.com/
 baseurl: ''
 # baseurl: /fyigeo.github.io
@@ -43,7 +43,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 8
+paginate: 10
 paginate_path: /page:num/
     
 # Other

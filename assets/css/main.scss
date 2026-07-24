@@ -8,6 +8,65 @@
   font-size: 2rem;
 }
 
+/* Social platform icons (ჩვენს შესახებ page) */
+.social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+  margin: 1.25rem 0;
+}
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 1.25rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .15);
+  transition: transform .2s ease, box-shadow .2s ease, opacity .2s ease;
+}
+.social-icon:hover,
+.social-icon:focus-visible {
+  color: #fff;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, .22);
+  opacity: .92;
+  text-decoration: none;
+}
+.social-icon-youtube   { background: #FF0000; }
+.social-icon-spotify   { background: #1DB954; }
+.social-icon-facebook  { background: #1877F2; }
+.social-icon-tiktok    { background: #010101; }
+.social-icon-instagram {
+  background: radial-gradient(circle at 30% 107%,
+    #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+
+/* Compact, muted variant used in the site footer */
+.social-icons-sm {
+  gap: 8px;
+  margin: 4px 0;
+}
+.social-icons-sm .social-icon {
+  width: 20px;
+  height: 20px;
+  font-size: .7rem;
+  background: transparent;
+  color: #EC6165;
+  box-shadow: none;
+}
+.social-icons-sm .social-icon:hover,
+.social-icons-sm .social-icon:focus-visible {
+  color: #d4282e;
+  background: transparent;
+  transform: translateY(-2px);
+  box-shadow: none;
+  opacity: 1;
+}
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
