@@ -15,48 +15,9 @@ comments: false
 <span class="participants-hero-eyebrow">2026 წლის შემოდგომის ნაკადი</span>
 </div>
 
-<div class="participants-banner">
-<a class="participants-banner-item" href="#p-gigi">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/gigi-berulava.jpg" alt="გიგი ბერულავა">
-<span>გიგი ბერულავა</span>
-</a>
-<a class="participants-banner-item" href="#p-ani">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/ani-bolotashvili.jpeg" alt="ანი ბოლოთაშვილი">
-<span>ანი ბოლოთაშვილი</span>
-</a>
-<a class="participants-banner-item" href="#p-mariam-g">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-gogaladze.jpg" alt="მარიამ გოგალაძე">
-<span>მარიამ გოგალაძე</span>
-</a>
-<a class="participants-banner-item" href="#p-natia">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/natia-zaridze.jpg" alt="ნათია ზარიძე">
-<span>ნათია ზარიძე</span>
-</a>
-<a class="participants-banner-item" href="#p-temo">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/temo-kalandadze.jpg" alt="თემო კალანდაძე">
-<span>თემო კალანდაძე</span>
-</a>
-<a class="participants-banner-item" href="#p-mariam-m">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-melikishvili.jpg" alt="მარიამ მელიქიშვილი">
-<span>მარიამ მელიქიშვილი</span>
-</a>
-<a class="participants-banner-item" href="#p-nini">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/nini-tkabaladze.jpeg" alt="ნინი ტყაბლაძე">
-<span>ნინი ტყაბლაძე</span>
-</a>
-<a class="participants-banner-item" href="#p-davit">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/davit-ghavtadze.jpeg" alt="დავით ღავთაძე">
-<span>დავით ღავთაძე</span>
-</a>
-<a class="participants-banner-item" href="#p-tiko">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/tiko-chirgadze.jpg" alt="თიკო ჩირგაძე">
-<span>თიკო ჩირგაძე</span>
-</a>
-<a class="participants-banner-item" href="#p-luka">
-<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/luka-chichinadze.jpg" alt="ლუკა ჭიჭინაძე">
-<span>ლუკა ჭიჭინაძე</span>
-</a>
-</div>
+<p class="text-center">
+<img class="img-fluid rounded participants-banner-image" src="{{ site.baseurl }}/assets/images/idea-lab-participants/ideaslab-fall2026-participants.jpg" alt="იდეების ლაბორატორია — შემოდგომა 2026-ის ნაკადის მონაწილეები">
+</p>
 
 <div class="participants-grid">
 
