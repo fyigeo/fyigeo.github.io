@@ -13,10 +13,17 @@ comments: false
 </p>
 
 <p class="text-center">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe8eSh3yNR172t1hHBffsVjYZqBYGeRKtILvdzFybDO6BS9ew/viewform" target="_blank" rel="noopener" class="apply-cta">
-<i class="fas fa-file-signature"></i>
-<span>განაცხადის შევსება</span>
+<a href="{{ site.baseurl }}/idea-lab-participants" class="apply-cta">
+<i class="fas fa-users"></i>
+<span>გაიცანი მონაწილეები</span>
 </a>
+</p>
+
+<p class="text-center">
+<span class="apply-cta apply-cta-closed">
+<i class="fas fa-lock"></i>
+<span>2026 შემოდგომის ნაკადზე მიღება დასრულებულია</span>
+</span>
 </p>
 
 #### გინდა გაიგო, როგორ იცვლება მსოფლიო — და ისწავლო, როგორ გააანალიზო ეს ცვლილებები პროფესიონალივით?
@@ -58,7 +65,7 @@ comments: false
 
 „იდეების ლაბორატორიის“ **პირველი ნაკადი სრულიად უფასოა**, **ადგილები კი შეზღუდული.**
 
-**განაცხადი მიიღება 2026 წლის 30 აგვისტოს ჩათვლით** და განსაკუთრებული ყურადღება დაეთმობა აპლიკანტების მოტივაციას ამ პროექტში მონაწილებისთვის.
+**2026 წლის შემოდგომის ნაკადზე განაცხადების მიღება დასრულებულია.**
 
 #### როგორი იქნება ექვსკვირიანი გზა?
 
@@ -102,10 +109,17 @@ comments: false
 **დამატებითი შეკითხვებისთვის დაგვიკავშირდი ნებისმიერ სოციალურ პლატფორმაზე შეტყობინების სახით, ან მოგვწერე იმეილზე:** **ketevan.fyi@gmail.com**
 
 <p class="text-center">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe8eSh3yNR172t1hHBffsVjYZqBYGeRKtILvdzFybDO6BS9ew/viewform" target="_blank" rel="noopener" class="apply-cta">
-<i class="fas fa-file-signature"></i>
-<span>განაცხადის შევსება</span>
+<a href="{{ site.baseurl }}/idea-lab-participants" class="apply-cta">
+<i class="fas fa-users"></i>
+<span>გაიცანი მონაწილეები</span>
 </a>
+</p>
+
+<p class="text-center">
+<span class="apply-cta apply-cta-closed">
+<i class="fas fa-lock"></i>
+<span>2026 შემოდგომის ნაკადზე მიღება დასრულებულია</span>
+</span>
 </p>
 
 </div>

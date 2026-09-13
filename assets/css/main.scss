@@ -120,6 +120,13 @@
   margin-top: 76px;
 }
 
+/* Sub-item indent for "მონაწილეები" under "იდეების ლაბორატორია" in the ცოდნისთვის dropdown */
+.dropdown-item-sub {
+  padding-left: 2rem;
+  font-size: .92rem;
+  color: #6c757d;
+}
+
 /* Nav dropdown caret (kept separate from the "ცოდნისთვის" link so the link stays clickable) */
 .nav-item.dropdown {
   display: flex;
@@ -194,6 +201,18 @@
 .apply-cta i {
   font-size: 1.15rem;
 }
+.apply-cta.apply-cta-closed {
+  background: #adb5bd;
+  color: #fff;
+  box-shadow: none;
+  cursor: default;
+  pointer-events: none;
+}
+.apply-cta.apply-cta-closed:hover,
+.apply-cta.apply-cta-closed:focus {
+  transform: none;
+  box-shadow: none;
+}
 
 /* Denser post grid (4 per row instead of 3) — shrink text/avatar to fit */
 .listrecent h2.card-title {
@@ -234,6 +253,72 @@
   background: #EC6165;
   border-color: #EC6165;
   color: #fff;
+}
+
+/* "მონაწილეები" profile cards on the იდეების ლაბორატორია participants page */
+.participants-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.participant-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, .08);
+}
+.participant-card:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+.participant-photo {
+  flex: 0 0 auto;
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, .12);
+}
+.participant-info {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.participant-name {
+  font-weight: 700;
+  margin-bottom: .15rem;
+}
+.participant-position {
+  color: #EC6165;
+  font-weight: 600;
+  font-size: .95rem;
+  margin-bottom: .6rem;
+  display: block;
+}
+.participant-bio p {
+  margin-bottom: .75rem;
+}
+.participant-bio p:last-child {
+  margin-bottom: 0;
+}
+.participant-position-volunteer {
+  color: #fff;
+  background: #6c757d;
+  display: inline-block;
+  padding: .15rem .7rem;
+  border-radius: 50px;
+  font-size: .8rem;
+}
+.mokhalise-heading {
+  color: #6c757d;
+}
+@media (max-width: 575.98px) {
+  .participant-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 }
 
 /* Your existing result styles */
