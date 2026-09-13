@@ -313,6 +313,29 @@
 .mokhalise-heading {
   color: #6c757d;
 }
+.participants-hero {
+  text-align: center;
+  margin: 1.5rem 0 2.5rem;
+}
+.participants-hero-eyebrow {
+  display: block;
+  color: #EC6165;
+  font-weight: 700;
+  font-size: .85rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  margin-bottom: .5rem;
+}
+.participants-hero-title {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+@media (max-width: 575.98px) {
+  .participants-hero-title {
+    font-size: 1.5rem;
+  }
+}
 @media (max-width: 575.98px) {
   .participant-card {
     flex-direction: column;

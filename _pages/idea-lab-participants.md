@@ -10,7 +10,10 @@ comments: false
 
 <p><a href="{{ site.baseurl }}/idea-lab">&larr; იდეების ლაბორატორია</a></p>
 
-#### „იდეების ლაბორატორიის“ პირველი ნაკადის მონაწილეები
+<div class="participants-hero">
+<span class="participants-hero-eyebrow">2026 წლის შემოდგომის ნაკადი</span>
+<h2 class="participants-hero-title">„იდეების ლაბორატორიის“ მონაწილეები</h2>
+</div>
 
 <div class="participants-grid">
 
@@ -143,7 +146,7 @@ comments: false
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/davit-ghavtadze.jpeg" alt="დავით ღავთაძე">
 <div class="participant-info">
 <span class="participant-name">დავით ღავთაძე</span>
-<span class="participant-position">სტაჟიორი</span>
+<span class="participant-position">კურსდამთავრებული, კავკასიის უნივერსიტეტი</span>
 <div class="participant-bio" markdown="1">
 
 დავით ღავთაძემ კავკასიის უნივერსიტეტის საერთაშორისო ურთიერთობების საბაკალავრო პროგრამა დაასრულა. სწავლის პერიოდში იგი განსაკუთრებით დაინტერესდა ჩრდილო-აღმოსავლეთ აზიის გეოპოლიტიკით.
