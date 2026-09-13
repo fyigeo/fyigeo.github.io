@@ -15,9 +15,52 @@ comments: false
 <span class="participants-hero-eyebrow">2026 წლის შემოდგომის ნაკადი</span>
 </div>
 
+<div class="participants-banner">
+<a class="participants-banner-item" href="#p-gigi">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/gigi-berulava.jpg" alt="გიგი ბერულავა">
+<span>გიგი ბერულავა</span>
+</a>
+<a class="participants-banner-item" href="#p-ani">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/ani-bolotashvili.jpeg" alt="ანი ბოლოთაშვილი">
+<span>ანი ბოლოთაშვილი</span>
+</a>
+<a class="participants-banner-item" href="#p-mariam-g">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-gogaladze.jpg" alt="მარიამ გოგალაძე">
+<span>მარიამ გოგალაძე</span>
+</a>
+<a class="participants-banner-item" href="#p-natia">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/natia-zaridze.jpg" alt="ნათია ზარიძე">
+<span>ნათია ზარიძე</span>
+</a>
+<a class="participants-banner-item" href="#p-temo">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/temo-kalandadze.jpg" alt="თემო კალანდაძე">
+<span>თემო კალანდაძე</span>
+</a>
+<a class="participants-banner-item" href="#p-mariam-m">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-melikishvili.jpg" alt="მარიამ მელიქიშვილი">
+<span>მარიამ მელიქიშვილი</span>
+</a>
+<a class="participants-banner-item" href="#p-nini">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/nini-tkabaladze.jpeg" alt="ნინი ტყაბლაძე">
+<span>ნინი ტყაბლაძე</span>
+</a>
+<a class="participants-banner-item" href="#p-davit">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/davit-ghavtadze.jpeg" alt="დავით ღავთაძე">
+<span>დავით ღავთაძე</span>
+</a>
+<a class="participants-banner-item" href="#p-tiko">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/tiko-chirgadze.jpg" alt="თიკო ჩირგაძე">
+<span>თიკო ჩირგაძე</span>
+</a>
+<a class="participants-banner-item" href="#p-luka">
+<img class="participants-banner-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/luka-chichinadze.jpg" alt="ლუკა ჭიჭინაძე">
+<span>ლუკა ჭიჭინაძე</span>
+</a>
+</div>
+
 <div class="participants-grid">
 
-<div class="participant-card">
+<div class="participant-card" id="p-gigi">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/gigi-berulava.jpg" alt="გიგი ბერულავა">
 <div class="participant-info">
 <span class="participant-name">გიგი ბერულავა</span>
@@ -34,7 +77,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-ani">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/ani-bolotashvili.jpeg" alt="ანი ბოლოთაშვილი">
 <div class="participant-info">
 <span class="participant-name">ანი ბოლოთაშვილი</span>
@@ -53,7 +96,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-mariam-g">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-gogaladze.jpg" alt="მარიამ გოგალაძე">
 <div class="participant-info">
 <span class="participant-name">მარიამ გოგალაძე</span>
@@ -70,7 +113,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-natia">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/natia-zaridze.jpg" alt="ნათია ზარიძე">
 <div class="participant-info">
 <span class="participant-name">ნათია ზარიძე</span>
@@ -89,7 +132,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-temo">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/temo-kalandadze.jpg" alt="თემო კალანდაძე">
 <div class="participant-info">
 <span class="participant-name">თემო კალანდაძე</span>
@@ -106,7 +149,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-mariam-m">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-melikishvili.jpg" alt="მარიამ მელიქიშვილი">
 <div class="participant-info">
 <span class="participant-name">მარიამ მელიქიშვილი</span>
@@ -125,7 +168,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-nini">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/nini-tkabaladze.jpeg" alt="ნინი ტყაბლაძე">
 <div class="participant-info">
 <span class="participant-name">ნინი ტყაბლაძე</span>
@@ -142,7 +185,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-davit">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/davit-ghavtadze.jpeg" alt="დავით ღავთაძე">
 <div class="participant-info">
 <span class="participant-name">დავით ღავთაძე</span>
@@ -157,7 +200,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-tiko">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/tiko-chirgadze.jpg" alt="თიკო ჩირგაძე">
 <div class="participant-info">
 <span class="participant-name">თიკო ჩირგაძე</span>
@@ -176,7 +219,7 @@ comments: false
 </div>
 </div>
 
-<div class="participant-card">
+<div class="participant-card" id="p-luka">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/luka-chichinadze.jpg" alt="ლუკა ჭიჭინაძე">
 <div class="participant-info">
 <span class="participant-name">ლუკა ჭიჭინაძე</span>
