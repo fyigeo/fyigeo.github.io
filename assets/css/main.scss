@@ -379,6 +379,9 @@
   text-align: center;
   line-height: 1.2;
 }
+.layout-page .article-post p.participants-intro {
+  margin-bottom: 3.5rem;
+}
 @media (max-width: 575.98px) {
   .participant-card {
     flex-direction: column;
