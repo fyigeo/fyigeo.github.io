@@ -11,8 +11,8 @@ comments: false
 <p><a href="{{ site.baseurl }}/idea-lab">&larr; იდეების ლაბორატორია</a></p>
 
 <div class="participants-hero">
-<span class="participants-hero-eyebrow">2026 წლის შემოდგომის ნაკადი</span>
 <h2 class="participants-hero-title">„იდეების ლაბორატორიის“ მონაწილეები</h2>
+<span class="participants-hero-eyebrow">2026 წლის შემოდგომის ნაკადი</span>
 </div>
 
 <div class="participants-grid">
