@@ -157,10 +157,10 @@ comments: false
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-melikishvili.jpg" alt="მარიამ მელიქიშვილი">
 <div class="participant-info">
 <span class="participant-name">მარიამ მელიქიშვილი <a href="https://www.linkedin.com/in/mariam-melikishvili-454601174/" target="_blank" rel="noopener" class="participant-linkedin" aria-label="მარიამ მელიქიშვილის LinkedIn პროფილი"><i class="fab fa-linkedin"></i></a></span>
-<span class="participant-position">სტუდენტი, American University in Bulgaria-ს</span>
+<span class="participant-position">სტუდენტი, American University in Bulgaria</span>
 <div class="participant-bio" markdown="1">
 
-მარიამი არის მეოთხე კურსის სტუდენტი American University in Bulgaria-ის პოლიტიკური მეცნიერების, საერთაშორისო ურთიერთობებისა და ფსიქოლოგიის ფაკულტეტზე. ამჟამად, ის Erasmus+ პროგრამით ატარებს გაცვლით სემესტრს ვენაში, Central European University-ში და აქტიურად ემზადება ცხოვრების შემდეგი ეტაპის დასაწყებად.
+მარიამი არის მეოთხე კურსის სტუდენტი American University in Bulgaria-ს პოლიტიკური მეცნიერების, საერთაშორისო ურთიერთობებისა და ფსიქოლოგიის ფაკულტეტზე. ამჟამად, ის Erasmus+ პროგრამით ატარებს გაცვლით სემესტრს ვენაში, Central European University-ში და აქტიურად ემზადება ცხოვრების შემდეგი ეტაპის დასაწყებად.
 
 მარიამისთვის კულტურათა ფსიქოლოგია, ჯგუფური თუ ინდივიდუალური პოლიტიკის ანალიზი, საერთაშორისო კონფლიქტები და მათი გამომწვევი მრავალგანზომილებიანი მიზეზები ერთმანეთთან თანდაყოლილ კავშირშია — მათი სიღრმისეულად შესწავლა კი მისი საყვარელი საქმიანობაა.
 
