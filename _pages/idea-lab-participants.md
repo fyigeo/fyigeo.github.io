@@ -156,7 +156,7 @@ comments: false
 <div class="participant-card" id="p-mariam-m">
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-melikishvili.jpg" alt="მარიამ მელიქიშვილი">
 <div class="participant-info">
-<span class="participant-name">მარიამ მელიქიშვილი</span>
+<span class="participant-name">მარიამ მელიქიშვილი <a href="https://www.linkedin.com/in/mariam-melikishvili-454601174/" target="_blank" rel="noopener" class="participant-linkedin" aria-label="მარიამ მელიქიშვილის LinkedIn პროფილი"><i class="fab fa-linkedin"></i></a></span>
 <span class="participant-position">სტუდენტი, American University in Bulgaria-ს</span>
 <div class="participant-bio" markdown="1">
 
