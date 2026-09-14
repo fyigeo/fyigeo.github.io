@@ -157,7 +157,7 @@ comments: false
 <img class="participant-photo" src="{{ site.baseurl }}/assets/images/idea-lab-participants/mariam-melikishvili.jpg" alt="მარიამ მელიქიშვილი">
 <div class="participant-info">
 <span class="participant-name">მარიამ მელიქიშვილი</span>
-<span class="participant-position">სტუდენტი, ამერიკული უნივერსიტეტი ბულგარეთში</span>
+<span class="participant-position">სტუდენტი, American University in Bulgaria-ს</span>
 <div class="participant-bio" markdown="1">
 
 მარიამი არის მეოთხე კურსის სტუდენტი American University in Bulgaria-ის პოლიტიკური მეცნიერების, საერთაშორისო ურთიერთობებისა და ფსიქოლოგიის ფაკულტეტზე. ამჟამად, ის Erasmus+ პროგრამით ატარებს გაცვლით სემესტრს ვენაში, Central European University-ში და აქტიურად ემზადება ცხოვრების შემდეგი ეტაპის დასაწყებად.
